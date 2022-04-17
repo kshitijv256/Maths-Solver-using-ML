@@ -2,7 +2,7 @@
 
 Hi! I'm Kshitij and This is my very first project on Github.
 
-It can be used to solve Arithmetic problems with +, - amd * operators.
+It can be used to solve Arithmetic problems with +, - and * operators.
 
 In this project I converted Image dataset from kaggle(link below in reference) to labeled ".csv" file and trained 3 Different ML models
 
