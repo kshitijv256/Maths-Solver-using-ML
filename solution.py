@@ -37,7 +37,7 @@ model = pick('./saved/SVM2.pickle')
 # else:
 #     path = os.path.join(folder,inp)
 
-path = "test.png"   ## Set Input Image ath here
+path = "test.png"   ## Set Input Image path here
 
 x = y = cv2.imread(path)
 img = cv2.cvtColor(y, cv2.COLOR_BGR2GRAY)
