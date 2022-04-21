@@ -31,4 +31,5 @@ I have seen various similar works done using Deep Learning but I wanted to give 
 ## Reference
 Image data Source: https://www.kaggle.com/datasets/michelheusser/handwritten-digits-and-operators
 
-# <center>Thank you</center>
+# Thank you
+> Please mention mistakes/improvements if you would like
