@@ -1,3 +1,8 @@
+'''
+This is used to convert Images to usable csv format
+written on 4/14/2022 by kshitijv256
+
+'''
 
 import cv2
 import os

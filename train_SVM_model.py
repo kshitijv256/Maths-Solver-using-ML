@@ -1,5 +1,5 @@
 '''
-K Nearest Neighbours Classifier model for recognizing Handwritten digits
+Support Vector Machine Classifier model for recognizing Handwritten digits
 written on 4/12/2022 by kshitijv256
 
 '''

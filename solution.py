@@ -1,5 +1,5 @@
 '''
-Driver file for input image processing and result prediction
+Driver file for input Image processing and result prediction
 written on 4/14/2022 by kshitijv256
 
 '''
